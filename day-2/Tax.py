@@ -1,3 +1,5 @@
+# Program to calculate final cost with tax
+
 # Get user input for the number of items and cost per item
 num_items = int(input("Enter the number of items: "))
 cost_of_item = float(input("Enter the cost of a single item: $"))
