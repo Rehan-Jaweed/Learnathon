@@ -5,7 +5,7 @@ b = int(input("Enter the second integer : "))
 # Print before swap
 print("\nBefore swapping a = ",a,"and b = ",b)
 
-#Swapping
+# Swapping
 temp = a
 a = b
 b = temp
