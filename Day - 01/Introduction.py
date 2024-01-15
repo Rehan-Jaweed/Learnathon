@@ -1,4 +1,4 @@
-# This program prints Hello World!
+# This program prints Hello World! and my name
 
 print("Hello World!")
-print('Hello')
+print('I am Mohammed Rehan Jaweed.')
