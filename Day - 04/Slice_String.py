@@ -1,6 +1,6 @@
 # Program that prints the string between 4 and 10 index
 
-#Input
+# Input
 string = input("Enter a sentence : ")
 
 # Checks if the sentence has 10 characters
